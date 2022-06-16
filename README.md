@@ -25,8 +25,8 @@ newman run PetStore.postman_collection.json -e Pet.postman_environment.json
 
 ## HTML Report
 
-If you prefer, execute the next command to see the report in a Html format insted of the console
-
+If you prefer, execute the next command to see the report in a Html format insted of the console.
+Then, open the generated file and view the report in your browser. 
 
 ```
 newman run PetStore.postman_collection.json -e Pet.postman_environment.json -r htmlextra
