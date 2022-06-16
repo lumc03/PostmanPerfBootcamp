@@ -7,7 +7,7 @@ Here you have the response to an Api test, performed in Postman and the followin
 - Add pet ( POST).
 - Get Pet (GET).
 - Place an order for a pet (POST).
-- Get the order plced (GET).
+- Get the order placed (GET).
 
 ## Install Dependencies
 
